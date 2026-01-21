@@ -1,4 +1,4 @@
-Bukola Aina
+**Bukola Aina**
 
 📍 Calgary, Canada
 Data Analyst | Credit Risk & Portfolio Analytics | Power BI | SQL | Python
@@ -7,13 +7,13 @@ Data Analyst | Credit Risk & Portfolio Analytics | Power BI | SQL | Python
 
 📧 Email: adebukolaina@gmail.com
 
-About
+**About**
 
 Data analyst with 5+ years of experience in consumer lending, credit adjudication, fraud risk, and portfolio monitoring. I specialize in translating borrower-level data into risk insights, approval strategies, and loss optimization decisions.
 
 My work focuses on end-to-end analytics: data preparation, feature engineering, risk segmentation, model evaluation, and executive-level visualization. I build analyses that are decision-ready, not just technically correct.
 
-Core Skills
+**Core Skills**
 
 Analytics & Modeling
 
@@ -25,7 +25,7 @@ Feature engineering & validation
 
 Risk banding & policy analysis
 
-Tools
+**Tools**
 
 Python (Pandas, NumPy)
 
@@ -35,7 +35,7 @@ Power BI (DAX, dashboards, executive reporting)
 
 Excel
 
-Domain
+**Domain**
 
 Consumer lending
 
@@ -44,7 +44,7 @@ Fraud & financial risk
 Portfolio performance monitoring
 
 Selected Projects
-###Consumer Credit Risk – PD Segmentation & Policy Impact
+**Consumer Credit Risk – PD Segmentation & Policy Impact**
 
 Python, SQL, Power BI
 
@@ -56,7 +56,7 @@ Delivered an executive dashboard simulating current vs policy-driven portfolio o
 
 🔗 Repository: (link this one prominently)
 
-Coffee Consumption & Cardiovascular Health (Capstone)
+**Coffee Consumption & Cardiovascular Health (Capstone)**
 
 Python, R, SQL, Power BI
 
@@ -65,7 +65,7 @@ A+ capstone project with faculty commendation
 Led EDA and visualization, examining relationships between consumption patterns and cardiovascular indicators
 🔗 Repository: Coffee-Consumption-Cardiovascular-Health-An-Exploratory-Data-Analysis-Project
 
-Additional Projects
+**Additional Projects**
 
 Trans Mountain Expansion – Exploratory Data Analysis
 
@@ -73,7 +73,7 @@ Customer Mapping & Segmentation
 
 NYPD Stop & Frisk Analysis (2012)
 
-Education
+**Education**
 
 Post-Diploma Certificate, Data Analytics — SAIT (A+, Faculty Commendation)
 
@@ -83,7 +83,7 @@ Google Data Analytics Certificate
 
 Investment Funds in Canada (IFIC)
 
-Interests
+**Interests**
 
 Credit risk & portfolio analytics
 
